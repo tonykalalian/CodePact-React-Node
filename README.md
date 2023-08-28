@@ -25,13 +25,6 @@ During this training program with Charbel Fakhry, I had the opportunity to:
 
 ## Repository Contents
 
-This repository is organized into various folders and files, including:
-
-- **Notes:** My personal notes from the training sessions.
-- **Projects:** Projects and applications I built during the training.
-- **Code Snippets:** Useful code snippets and examples.
-- **Resources:** Links and resources for further learning.
-
 Feel free to explore the contents, provide feedback, or reach out if you have any questions about my experience or the training program.
 
 ## How to Use This Repository
